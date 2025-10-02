@@ -3,3 +3,4 @@ Repository of deep learning assignments, labs, and research experiments for acad
 
  - tweet_emotion_bbc_sports_classification: Applied simple artificial neural network on tweet emotions by bbc sports to classify the emotions through the provided reviews and text.
  - cnn_based_classification_of_intel_images_dataset: Applied Simple CNN and CNN with augmentation on a small dataset extracted from a large dataset of images named Intel Image Classification to compare their performances and behavior.
+ - Sentiment_analysis_with_LSTM: Applied multiple techniques in seqentail modeling for sentiment analysis of tweets using publically available dataset from kaggle with 1.6 million tweets. Here I used text vectorization with one gram, two grams, multi_hot encoding, tf_idf encoding, embedding layer, pretrainined embedding layer using glove, glove-twitter and fasttext.
